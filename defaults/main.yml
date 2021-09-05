@@ -2,4 +2,3 @@
 # defaults file for qemu
 qemu_os_pkgs:
   - qemu
-  - qemu-img
